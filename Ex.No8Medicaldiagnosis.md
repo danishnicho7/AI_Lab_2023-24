@@ -55,4 +55,4 @@ symptom(raju,sore_throat).
 
 
 ### Result:
-Thus the simple medical diagnosis system was built sucessfully.# Ex.No: 8  Logic Programming –  Medical Diagnosis Expert System
+Thus the simple medical diagnosis system was built sucessfully.
