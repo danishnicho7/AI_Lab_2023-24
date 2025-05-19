@@ -1,5 +1,5 @@
 # Ex.No: 6   Logic Programming – Factorial of number   
-### DATE:08-04-2025                                                                            
+### DATE:25/03/2025                                                                            
 ### REGISTER NUMBER : 212222040030
 
 ### AIM: 
